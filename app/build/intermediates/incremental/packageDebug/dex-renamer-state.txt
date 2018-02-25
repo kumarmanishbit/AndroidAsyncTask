@@ -1,0 +1,4 @@
+#Sun Feb 25 23:20:30 IST 2018
+base.0=/Users/kumam8/Desktop/AndroidAsyncTask/AsyncTask/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/kumam8/Desktop/AndroidAsyncTask/AsyncTask/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
